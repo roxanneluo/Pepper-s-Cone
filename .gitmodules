@@ -4,3 +4,6 @@
 [submodule "unity"]
 	path = unity
 	url = git@github.com:roxanneluo/Pepper-s-Cone-Unity.git
+[submodule "distortion-calibration"]
+	path = distortion-calibration
+	url = https://github.com/roxanneluo/Pepper-s-Cone-Distortion-Calibration.git
