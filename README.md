@@ -5,3 +5,5 @@
 simulation/ # matlab code for simulation, raytracing, compute map: iPad image -> camera image by raytracing and interpolation
 
 unity/ # unity project for app
+distortion-calibration/ # code for distortion calibration and generating
+calibration video 
