@@ -3,4 +3,4 @@
 	url = https://github.com/roxanneluo/Pepper-s-Cone-Simulation.git
 [submodule "unity"]
 	path = unity
-	url = https://github.com/roxanneluo/Pepper-s-Cone-Unity.git
+	url = git@github.com:roxanneluo/Pepper-s-Cone-Unity.git
